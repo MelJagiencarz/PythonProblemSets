@@ -14,4 +14,4 @@ This repository contains eight problem sets, each designed to gradually increase
 8. **Regular Expressions** – Pattern matching and text processing.
 9. **Object-Oriented Programming** – Exploring classes, objects, and OOP principles.
 
-Each problem set allowed me to develop my coding skills step by step. The exercises were provided by Harvard's CS50, being the ones that i had to made and overcome to get graduated in the course.
+Each problem set allowed me to develop my coding skills step by step. The exercises were provided by Harvard's CS50, being the ones that I had to submit and receive a score of at least 70% on each to graduate in the course.
